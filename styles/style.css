@@ -14,3 +14,8 @@
 .navmenu {
     font-family: 'Merriweather', serif;
 }
+
+.link {
+    text-decoration: none;
+    color: inherit;
+}
